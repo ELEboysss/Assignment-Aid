@@ -1,8 +1,10 @@
-## design by ELEboysss
+## Designed by ELEboysss
 
-## project Assignment-Aid
+## Project Assignment-Aid
 
-## url: localhost:8887
-## TODO https://www.tuokeaid.com
+## Address
+[域名] url: http://localhost:8887
+TODO https://www.tuokeaid.com
+[OAuth] http://localhost:8887/callback
 
-## port:8887
+## Port:8887
